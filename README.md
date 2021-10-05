@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steffi
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Elixier
 - 📫 [Get in touch](mailto:stf.meyer.91@gmail.com)
 
 <!---
